@@ -64,8 +64,8 @@ All steps are based on a real-world dataset provided via Codebasics' Data Analys
 
 ## 📸 Dashboard Preview
 
-![Hospitality Dashboard](![10  Dashboard](https://github.com/user-attachments/assets/da4c7f50-36b4-4d06-9e20-7ab084a908fd)
-)
+Hospitality Dashboard ![10  Dashboard](https://github.com/user-attachments/assets/da4c7f50-36b4-4d06-9e20-7ab084a908fd)
+
 
 ---
 
